@@ -94,7 +94,7 @@ java -cp "out;lib\mysql-connector-j-8.0.23.jar" librarymanagement.Main
 
 ## 🔑 Credentials
 Default admin access:
-    - Username: admin
-    - Password: admin
+- Username: admin
+- Password: admin
 
 ---
