@@ -1,9 +1,8 @@
-package librarymanagement.controllers;
+
 import librarymanagement.utils.DatabaseConnection;
 import librarymanagement.models.*;
 import java.sql.*;
-import java.util.ArrayList;
-import java.util.List;
+
 
 public class AdminController {
     public static boolean addUser(String username, String password, String role, String name) {
@@ -32,3 +31,4 @@ public class AdminController {
         return list;
     }
 }
+//hello
